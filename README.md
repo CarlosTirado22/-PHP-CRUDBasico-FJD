@@ -1,5 +1,5 @@
 Buenos dias.
-mi nombre es Carlos Mario Tirado Tovar, he realizado el crud como me lo pidieron en la prueba tecnica con algunos puntos extras los cuales consisten en.
+mi nombre es Carlos Mario Tirado Tovar, he realizado el crud como me pidieron en la prueba tecnica con algunos puntos extras los cuales consisten en.
 primero que todo realice un CRUD muy intuitivo el cual cuenta con un buscador que esta hecho con javascript y css3, como tambien se puede
 descargar todos los datos de la tabla a excel que tambien lo realice con JS y en la parte de las funciones cree un archivo llamado funciones.php
 en el cual se encuentran todas las funciones de mi CRUD.
